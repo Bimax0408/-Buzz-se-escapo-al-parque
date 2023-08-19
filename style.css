@@ -1,0 +1,25 @@
+#titulo {
+    font-family: 'Luckiest Guy';
+    font-size: 40px;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+
+#pista {
+    font-family: 'Luckiest Guy';
+    font-size: 30px;
+    position: fixed;
+    width: 250px;
+    top: 20%;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+
+canvas {
+    border-width: 1px;
+    border-style: solid;
+}
+
+body {
+    text-align: center;
+}
